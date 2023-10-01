@@ -1,0 +1,11 @@
+numpy
+
+scikit-image
+
+scikit-learn
+
+pandas
+
+pip
+
+pickleshare
